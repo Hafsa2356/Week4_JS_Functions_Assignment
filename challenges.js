@@ -18,11 +18,18 @@ Output: "The late fee is $2.50."
 
 // ✍️ ✍️ ✍️ ✍️ Write the function here ✍️ ✍️ ✍️ ✍️
 
-
+function calculatelatefee(10){
+Let day = input("10: ");
+late fee =10 * 2.50;
+console.log(thelatefee 10 (2.50);
+}
 
 // Extra Task:
 // - Convert the function into a function expression.
-
+const calculatelatefee=function(10,2.50){
+10+2.50;
+};
+console.log(calculatelatefee(10,2.50);
 
 
 /*
@@ -45,11 +52,17 @@ Output: "Red: You are passionate and bold."
 
 // ✍️ ✍️ ✍️ ✍️ Write the function here ✍️ ✍️ ✍️ ✍️
 
-
+function findcolormeaning(red){
+if (Red==="Red"){
+console.log("red:you are passionate and bold.");
+}
 
 // Extra Task:
 // - Rewrite the function using an arrow function.
-
+const findcolormeaning=(Red)=>{
+   if (Red==="Red"){
+   consule.log("Red:you are passionate and bold.");
+}
 
 
 /*
@@ -67,13 +80,17 @@ Output: "Case #12345: John Doe's case is now logged."
 */
 
 // ✍️ ✍️ ✍️ ✍️ Write the function here ✍️ ✍️ ✍️ ✍️
-
-
-
+function logcase (john doe,12345);{
+if(john doe==="john doe"){
+console.log("case#12345:john doe'scase is now logged.");
+}
 // Extra Task:
 // - Rewrite the function as an arrow function.
 
-
+const logcase=(john doe,12345)=>{
+   if(john doe==="john doe"){
+   console.log("case#12345:john doe's case is now logged.");
+   }
 /*
 Task 4 : Attendance Tracker 🚀🚀🚀🚀
 
@@ -94,12 +111,18 @@ Output: "Amina is present."
 
 // ✍️ ✍️ ✍️ ✍️ Write the function here ✍️ ✍️ ✍️ ✍️
 
-
+function markattendance(aminatrue){
+if(aminatrue==="amina"){
+console.log("amina is present.");
+}
 
 // Extra Task:
 // - Convert the function into a function expression.
 
-
+const markattendance=function(amina,true){
+if(amina==="amina"){
+console.log("amina is present.");
+}
 
 /*
 STRETCH TASK: Student Grade Report Generator 🏈🏈🏈🏈
@@ -134,4 +157,27 @@ Output:
 Extra Credit:
 - Extend the program to accept multiple students' names and scores and generate a report for each student using a loop.
 - Use an arrow function for at least one of the functions.
-*/
+
+function calculateAverage(score1,score2,score3){
+return(score85+score90+score78)/3;{
+function determineGrrade(average){
+if(average>=81){
+return"A";}if(average>=81)
+}
+function generateReport(studentname,score90+score89+score79){
+let average=calculateAverage(90,89,79);}{
+let grade=detrminegrade(average);{
+return '$(Amina)-average score:90)(grade:A)';
+}
+
+cont generateReport=(amina 90+89+79)=>{
+   let average=calculateAverage(90,89,79);{
+   let grade=determinegrade(81){
+   return '$(amina)-average score:81){grade:B}';}
+   
+
+
+
+
+
+}
